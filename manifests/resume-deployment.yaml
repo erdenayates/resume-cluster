@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: resume
-        image: 982389650543.dkr.ecr.us-east-1.amazonaws.com/resume-repository:1
+        image: 982389650543.dkr.ecr.us-east-1.amazonaws.com/resume-repository:2
         ports:
         - containerPort: 80
